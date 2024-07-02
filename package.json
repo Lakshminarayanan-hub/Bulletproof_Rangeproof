@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "bigint-crypto-utils": "^3.3.0",
+    "bulletproof-js": "^1.0.7",
+    "elliptic": "^6.5.5"
+  }
+}
